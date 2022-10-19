@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Pira1324
 - 👀 Estoy interesado en Programacion de apps
-- 🌱 Actualmente estoy aprendiendo el lenguaje kotling
+- 🌱 Actualmente estoy aprendiendo el lenguaje kotling y python
 - 💞️ Busco colaborar en el desarrollo de mis apps favoritas
 - 📫 Como llegar a mi, correo: el.mundo.de.tronador1324@gmail.com
 <!---
