@@ -1,4 +1,4 @@
-- 👋 Hola, soy @Pira1324
+- 👋 Hola, soy @Pira1324-official
 - 👀 Estoy interesado en Programacion de apps
 - 🌱 Actualmente estoy aprendiendo el lenguaje kotling y python
 - 💞️ Busco colaborar en el desarrollo de mis apps favoritas
